@@ -1,5 +1,5 @@
 provider "google" {
-  project = "<your gcp project ID>"
+  project = "<your gcp project-ID>"
   region  = "asia-east1"
 }
 
